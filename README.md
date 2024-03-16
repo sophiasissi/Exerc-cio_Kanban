@@ -1,2 +1,2 @@
-# Exerc-cio_Kanban
+# Exercicio_Kanban
 Aula 4 - Exercício Kanban
